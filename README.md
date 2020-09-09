@@ -1,8 +1,15 @@
 # Horiseon-Code-Refactor
 
+Horiseon Social Solution Services, Inc 
 
+Website Accessible Update Notes
 
+Update 1.0 Notes
+updated general elements to include more appropriate semantic elements
+updated alt text to include descriptive language for screen readers
+Consolidated and reorganized CSS selectors
 
+Followed Guidelines
 
 GIVEN a webpage meets accessibility standards
 WHEN I view the source code
